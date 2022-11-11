@@ -1,0 +1,25 @@
+Surrey					Delta					3.9
+Surrey					New Westminster			1.2
+Surrey					Port Coquitlam			4.5
+Delta					Richmond				4.4
+Vancouver				UBC						2.1
+Delta					Vancouver				8.3
+Delta					New Westminster			4.8
+New Westminster			Richmond				0.2
+New Westminster			Port Coquitlam			5.9
+Port Coquitlam			Burnaby					3.5
+Burnaby					Port Coquitlam			5.4
+Port Coquitlam			Coquitlam				2.7
+Richmond				UBC						5.5
+Vancouver				Richmond				9.1
+New Westminster			Burnaby					2.6
+Richmond				Vancouver				4.3
+Richmond				Burnaby					5.2
+Burnaby					Vancouver				5.8
+Burnaby					Coquitlam				3.4
+New Westminster			Richmond				6.0
+Coquitlam				Vancouver				7.1
+UBC						North Vancouver			6.8
+UBC						Vancouver				3.3
+North Vancouver			Vancouver				2.6
+New Westminster			Surrey					3.1

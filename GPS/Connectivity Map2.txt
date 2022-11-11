@@ -1,0 +1,10 @@
+Vancouver		Burnaby		1.5
+Vancouver		     North Vancouver		     1.2
+
+Burnaby	     	North Vancouver	    	4.7
+
+Burnaby	    	Port Moody		      3.6
+North Vancouver		Port Moody		5.8
+
+North Vancouver			Vancouver				2.9
+
