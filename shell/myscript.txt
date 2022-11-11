@@ -1,0 +1,9 @@
+$takato=cox
+print $takato
+ls
+theme red
+$tai=png
+print hello $takato $tai
+$kai=ocean
+pwd
+log
